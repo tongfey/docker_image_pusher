@@ -6,5 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-nginx
 flannel:v0.25.4
