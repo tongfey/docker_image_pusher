@@ -5,5 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nginx:stable-alpine3.19-perl
-flannel/flannel:v0.25.4
+#nginx:stable-alpine3.19-perl
+#flannel/flannel:v0.25.4
+
+flannel/flannel-cni-plugin:v1.4.1-flannel1
