@@ -7,5 +7,5 @@
 
 
 
-vllm/vllm-openai:latest
+mintplexlabs/anythingllm
 
