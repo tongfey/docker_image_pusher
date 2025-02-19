@@ -7,5 +7,5 @@
 
 
 
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+vllm/vllm-openai:latest
 
