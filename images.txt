@@ -7,5 +7,5 @@
 
 
 
-mintplexlabs/anythingllm
+approachingai/ktransformers:0.2.1
 
