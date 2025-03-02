@@ -7,7 +7,7 @@
 
 
 
-ghcr.io/open-webui/open-webui:v0.5.18
+#ghcr.io/open-webui/open-webui:v0.5.18
 #vllm/vllm-openai:v0.7.3
-#
+infiniflow/ragflow:v0.17.0-slim
 
