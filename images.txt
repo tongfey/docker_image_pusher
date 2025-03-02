@@ -7,5 +7,6 @@
 
 
 
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
+vllm/vllm-openai:v0.7.3
 
