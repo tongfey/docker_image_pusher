@@ -15,5 +15,6 @@
 #registry.k8s.io/pause:3.10.1
 #registry.k8s.io/etcd:3.6.5-0
 
-ghcr.io/flannel-io/flannel:v0.28.4
-ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel1
+#ghcr.io/flannel-io/flannel:v0.28.4
+#ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel1
+nginx
