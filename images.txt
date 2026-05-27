@@ -19,8 +19,14 @@
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel1
 #busybox
 
-registry.k8s.io/kube-apiserver:v1.34.8
-registry.k8s.io/kube-controller-manager:v1.34.8
-registry.k8s.io/kube-scheduler:v1.34.8
-registry.k8s.io/kube-proxy:v1.34.8
+#registry.k8s.io/kube-apiserver:v1.34.8
+#registry.k8s.io/kube-controller-manager:v1.34.8
+#registry.k8s.io/kube-scheduler:v1.34.8
+#registry.k8s.io/kube-proxy:v1.34.8
+
+zabbix/zabbix-server-mysql:6.0-alpine-latest
+zabbix/zabbix-agent2:6.0-ltsc2022-latest
+zabbix/zabbix-java-gateway:6.0-alpine-latest
+zabbix/zabbix-web-nginx-mysql:6.0-alpine-latest
+zabbix/zabbix-proxy-mysql:6.0-alpine-latest
 
