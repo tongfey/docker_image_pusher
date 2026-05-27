@@ -25,8 +25,12 @@
 #registry.k8s.io/kube-proxy:v1.34.8
 
 #zabbix/zabbix-server-mysql:6.0-alpine-latest
-zabbix/zabbix-agent2:6.0-ltsc2022-latest
+#zabbix/zabbix-agent2:6.0-ltsc2022-latest
 #zabbix/zabbix-java-gateway:6.0-alpine-latest
 #zabbix/zabbix-web-nginx-mysql:6.0-alpine-latest
 #zabbix/zabbix-proxy-mysql:6.0-alpine-latest
 
+zabbix/zabbix-server-pgsql:6.0.46-alpine
+zabbix/zabbix-java-gateway:6.0.46-alpine
+zabbix/zabbix-web-nginx-pgsql:6.0.46-alpine
+zabbix/zabbix-agent2:6.0.46-alpine
