@@ -35,4 +35,5 @@
 #zabbix/zabbix-web-nginx-pgsql:6.0.46-alpine
 #zabbix/zabbix-agent2:6.0.46-alpine
 
- nginx:1.30.2-alpine-perl
+#nginx:1.30.2-alpine-perl
+busybox:1.38-glibc
