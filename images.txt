@@ -36,4 +36,5 @@
 #zabbix/zabbix-agent2:6.0.46-alpine
 
 #nginx:1.30.2-alpine-perl
-busybox:1.38-glibc
+#busybox:1.38-glibc
+dbeaver/cloudbeaver:26.1.0
