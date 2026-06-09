@@ -39,5 +39,6 @@
 #busybox:1.38-glibc
 #dbeaver/cloudbeaver:26.1.0
 #alpine:3.22
-gcc:12.5.0-bookworm
+#gcc:12.5.0-bookworm
+centos:7
 
