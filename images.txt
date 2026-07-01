@@ -40,5 +40,6 @@
 #dbeaver/cloudbeaver:26.1.0
 #alpine:3.22
 #gcc:12.5.0-bookworm
-centos:7
+#centos:7
+eclipse-temurin:8-jre
 
