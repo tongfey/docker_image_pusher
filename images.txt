@@ -41,5 +41,8 @@
 #alpine:3.22
 #gcc:12.5.0-bookworm
 #centos:7
-eclipse-temurin:8-jre
+#eclipse-temurin:8-jre
+
+node:20-alpine
+python:3.12-slim
 
