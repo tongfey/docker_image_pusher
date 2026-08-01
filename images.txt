@@ -46,10 +46,14 @@
 #node:20-alpine
 #python:3.12-slim
 #nginx:stable
-registry.k8s.io/kube-apiserver:v1.30.14
-registry.k8s.io/kube-controller-manager:v1.30.14
-registry.k8s.io/kube-scheduler:v1.30.14
-registry.k8s.io/kube-proxy:v1.30.14
-registry.k8s.io/coredns/coredns:v1.11.3
-registry.k8s.io/pause:3.9
-registry.k8s.io/etcd:3.5.15-0
+
+
+ghcr.io/kyverno/kyverno:v1.6.3
+ghcr.io/kyverno/kyvernopre:v1.6.3
+
+# ========== v1.10.7（5 个镜像）==========
+ghcr.io/kyverno/kyverno-admission-controller:v1.10.7
+ghcr.io/kyverno/kyverno-background-controller:v1.10.7
+ghcr.io/kyverno/kyverno-cleanup-controller:v1.10.7
+ghcr.io/kyverno/kyverno-reports-controller:v1.10.7
+ghcr.io/kyverno/kyverno-init-container:v1.10.7
