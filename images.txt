@@ -48,11 +48,13 @@
 #nginx:stable
 
 
-ghcr.io/kyverno/kyverno:v1.6.3
-ghcr.io/kyverno/kyvernopre:v1.6.3
+#ghcr.io/kyverno/kyverno:v1.6.3
+##ghcr.io/kyverno/kyvernopre:v1.6.3
 
-ghcr.io/kyverno/kyverno-admission-controller:v1.10.7
-ghcr.io/kyverno/kyverno-background-controller:v1.10.7
-ghcr.io/kyverno/kyverno-cleanup-controller:v1.10.7
-ghcr.io/kyverno/kyverno-reports-controller:v1.10.7
-ghcr.io/kyverno/kyverno-init-container:v1.10.7
+
+ghcr.io/kyverno/kyverno:v1.10.7
+ghcr.io/kyverno/background-controller:v1.10.7
+ghcr.io/kyverno/reports-controller:v1.10.7
+ghcr.io/kyverno/cleanup-controller:v1.10.7
+ghcr.io/kyverno/kyvernopre:v1.10.7
+
