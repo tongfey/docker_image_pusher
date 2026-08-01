@@ -51,7 +51,6 @@
 ghcr.io/kyverno/kyverno:v1.6.3
 ghcr.io/kyverno/kyvernopre:v1.6.3
 
-# ========== v1.10.7（5 个镜像）==========
 ghcr.io/kyverno/kyverno-admission-controller:v1.10.7
 ghcr.io/kyverno/kyverno-background-controller:v1.10.7
 ghcr.io/kyverno/kyverno-cleanup-controller:v1.10.7
