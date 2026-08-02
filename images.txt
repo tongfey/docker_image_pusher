@@ -63,5 +63,13 @@
 #ghcr.io/kyverno/reports-controller:v1.15.3
 #ghcr.io/kyverno/cleanup-controller:v1.15.3
 #ghcr.io/kyverno/kyvernopre:v1.15.3
-kyverno-cli:v1.15.3
+reg.kyverno.io/kyverno/kyverno-cli:v1.15.3
+
+
+ghcr.io/kyverno/kyverno:v1.12.6
+ghcr.io/kyverno/background-controller:v1.12.6
+ghcr.io/kyverno/reports-controller:v1.12.6
+ghcr.io/kyverno/cleanup-controller:v1.12.6
+ghcr.io/kyverno/kyvernopre:v1.12.6
+reg.kyverno.io/kyverno/kyverno-cli:v1.12.6
 
