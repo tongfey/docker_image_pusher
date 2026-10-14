@@ -81,4 +81,12 @@
 #reg.kyverno.io/kyverno/kyverno-cli:v1.10.7
 
 #registry:3.1.1
-nginx:1.30.4-alpine3.24
+#nginx:1.30.4-alpine3.24
+
+registry.k8s.io/kube-apiserver:v1.34.12
+registry.k8s.io/kube-controller-manager:v1.34.12
+registry.k8s.io/kube-scheduler:v1.34.12
+registry.k8s.io/kube-proxy:v1.34.12
+registry.k8s.io/coredns/coredns:v1.12.1
+registry.k8s.io/pause:3.10.1
+registry.k8s.io/etcd:3.6.5-0
